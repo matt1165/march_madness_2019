@@ -9,7 +9,9 @@ The Game class contains methods to determine the winner when given two teams. Th
 All budget and enrollment data is from https://ope.ed.gov/athletics/#/ while tuition data was pulled from individual institution's websites.
 
 Bracket Output:
+
 ***Round 1***
+
 Duke
 N.C. Central
 VCU
@@ -76,6 +78,7 @@ Kentucky
 Abilene Christian
 
 ***Round 2***
+
 Duke
 VCU
 Mississippi St.
@@ -108,6 +111,7 @@ Ohio St.
 Houston
 Seton Hall
 Kentucky
+
 ***Round 3***
 
 Duke
@@ -126,6 +130,7 @@ Iona
 Kansas
 Ohio St.
 Kentucky
+
 ***Round 4***
 
 Duke
@@ -136,16 +141,19 @@ Mississippi
 Villanova
 Iona
 Kentucky
+
 ***Round 5***
 
 Duke
 Gonzaga
 Villanova
 Kentucky
+
 ***Round 6***
 
 Duke
 Villanova
+
 ***Round 7***
 
 Duke
