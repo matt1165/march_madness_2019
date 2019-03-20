@@ -156,4 +156,4 @@ Villanova,
 
 ***Round 7***
 
-Duke,
+Duke
