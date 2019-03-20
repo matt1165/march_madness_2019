@@ -75,7 +75,7 @@ Gorgia State,
 Wofford,
 Seton Hall,
 Kentucky,
-Abilene Christian,
+Abilene Christian
 
 ***Round 2***
 
@@ -110,7 +110,7 @@ Kansas,
 Ohio St.,
 Houston,
 Seton Hall,
-Kentucky,
+Kentucky
 
 ***Round 3***
 
@@ -129,7 +129,7 @@ Colgate,
 Iona,
 Kansas,
 Ohio St.,
-Kentucky,
+Kentucky
 
 ***Round 4***
 
@@ -140,19 +140,19 @@ Texas Tech,
 Mississippi,
 Villanova,
 Iona,
-Kentucky,
+Kentucky
 
 ***Round 5***
 
 Duke,
 Gonzaga,
 Villanova,
-Kentucky,
+Kentucky
 
 ***Round 6***
 
 Duke,
-Villanova,
+Villanova
 
 ***Round 7***
 
