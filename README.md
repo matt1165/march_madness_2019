@@ -74,6 +74,7 @@ Wofford
 Seton Hall
 Kentucky
 Abilene Christian
+
 ***Round 2***
 Duke
 VCU
@@ -108,6 +109,7 @@ Houston
 Seton Hall
 Kentucky
 ***Round 3***
+
 Duke
 St. Louis
 Belmont
@@ -125,6 +127,7 @@ Kansas
 Ohio St.
 Kentucky
 ***Round 4***
+
 Duke
 Bradley
 Gonzaga
@@ -134,12 +137,15 @@ Villanova
 Iona
 Kentucky
 ***Round 5***
+
 Duke
 Gonzaga
 Villanova
 Kentucky
 ***Round 6***
+
 Duke
 Villanova
 ***Round 7***
+
 Duke
