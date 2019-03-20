@@ -12,148 +12,148 @@ Bracket Output:
 
 ***Round 1***
 
-Duke
-N.C. Central
-VCU
-UCF
-Mississippi St.
-Liberty
-VA Tech
-St. Louis
-Maryland
-Belmont
-LSU
-Yale
-Louisville
-Minnesota
-Mich. St.
-Bradley
-Gonzaga
-Fairleigh D'son
-Syracuse
-Baylor
-Marquette
-Murray St.
-Florida St.
-Vermont
-Buffalo
-St. Johns
-Texas Tech
-N. Kentucky
-Nevada
-Florida
-Michigan
-Montana
-Virginia
-Gardner-Webb
-Mississippi
-Oklahoma
-Wisconsin
-Oregon
-Kansas St.
-UC Irvine
-Villanova
-St. Mary's (CA)
-Purdue
-Old Dominion
-Cincinnati
-Iowa
-Tennessee
-Colgate
-North Carolina
-Iona
-Utah St.
-Washington
-Auburn
-New Mexico St.
-Kansas
-Northeastern
-Iowa St.
-Ohio St.
-Houston
-Gorgia State
-Wofford
-Seton Hall
-Kentucky
-Abilene Christian
+Duke,
+N.C. Central,
+VCU,
+UCF,
+Mississippi St.,
+Liberty,
+VA Tech,
+St. Louis,
+Maryland,
+Belmont,
+LSU,
+Yale,
+Louisville,
+Minnesota,
+Mich. St.,
+Bradley,
+Gonzaga,
+Fairleigh D'son,
+Syracuse,
+Baylor,
+Marquette,
+Murray St.,
+Florida St.,
+Vermont,
+Buffalo,
+St. Johns,
+Texas Tech,
+N. Kentucky,
+Nevada,
+Florida,
+Michigan,
+Montana,
+Virginia,
+Gardner-Webb,
+Mississippi,
+Oklahoma,
+Wisconsin,
+Oregon,
+Kansas St.,
+UC Irvine,
+Villanova,
+St. Mary's (CA),
+Purdue,
+Old Dominion,
+Cincinnati,
+Iowa,
+Tennessee,
+Colgate,
+North Carolina,
+Iona,
+Utah St.,
+Washington,
+Auburn,
+New Mexico St.,
+Kansas,
+Northeastern,
+Iowa St.,
+Ohio St.,
+Houston,
+Gorgia State,
+Wofford,
+Seton Hall,
+Kentucky,
+Abilene Christian,
 
 ***Round 2***
 
-Duke
-VCU
-Mississippi St.
-St. Louis
-Belmont
-LSU
-Minnesota
-Bradley
-Gonzaga
-Syracuse
-Marquette
-Florida St.
-St. Johns
-Texas Tech
-Nevada
-Montana
-Gardner-Webb
-Mississippi
-Oregon
-Kansas St.
-Villanova
-Purdue
-Cincinnati
-Colgate
-Iona
-Utah St.
-Auburn
-Kansas
-Ohio St.
-Houston
-Seton Hall
-Kentucky
+Duke,
+VCU,
+Mississippi St.,
+St. Louis,
+Belmont,
+LSU,
+Minnesota,
+Bradley,
+Gonzaga,
+Syracuse,
+Marquette,
+Florida St.,
+St. Johns,
+Texas Tech,
+Nevada,
+Montana,
+Gardner-Webb,
+Mississippi,
+Oregon,
+Kansas St.,
+Villanova,
+Purdue,
+Cincinnati,
+Colgate,
+Iona,
+Utah St.,
+Auburn,
+Kansas,
+Ohio St.,
+Houston,
+Seton Hall,
+Kentucky,
 
 ***Round 3***
 
-Duke
-St. Louis
-Belmont
-Bradley
-Gonzaga
-Marquette
-Texas Tech
-Nevada
-Mississippi
-Kansas St.
-Villanova
-Colgate
-Iona
-Kansas
-Ohio St.
-Kentucky
+Duke,
+St. Louis,
+Belmont,
+Bradley,
+Gonzaga,
+Marquette,
+Texas Tech,
+Nevada,
+Mississippi,
+Kansas St.,
+Villanova,
+Colgate,
+Iona,
+Kansas,
+Ohio St.,
+Kentucky,
 
 ***Round 4***
 
-Duke
-Bradley
-Gonzaga
-Texas Tech
-Mississippi
-Villanova
-Iona
-Kentucky
+Duke,
+Bradley,
+Gonzaga,
+Texas Tech,
+Mississippi,
+Villanova,
+Iona,
+Kentucky,
 
 ***Round 5***
 
-Duke
-Gonzaga
-Villanova
-Kentucky
+Duke,
+Gonzaga,
+Villanova,
+Kentucky,
 
 ***Round 6***
 
-Duke
-Villanova
+Duke,
+Villanova,
 
 ***Round 7***
 
-Duke
+Duke,
